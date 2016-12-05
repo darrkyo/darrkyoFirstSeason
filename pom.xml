@@ -21,6 +21,8 @@
             <groupId>trs.com.cn</groupId>
             <artifactId>season-core</artifactId>
         </dependency>
+
+
     </dependencies>
 
     <build>
@@ -39,5 +41,7 @@
             <url>http://test.haier.com/nexus/content/groups/public/</url>
         </repository>
     </repositories>
+
+
 
 </project>
